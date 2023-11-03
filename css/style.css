@@ -1,0 +1,77 @@
+body > header{
+  align-items: center;
+  display: flex;
+  font-family: 'oswald';
+  flex-direction: row;
+
+  border-bottom: 4px inset grey;
+}
+
+
+
+ nav {
+  display: flex;
+  flex-direction: row;
+}
+
+nav ul {
+  display: flex;
+
+}
+
+
+.title {
+  font-family: 'yellowtail';
+}
+
+.deck.col-1{
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+ */
